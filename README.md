@@ -4,4 +4,6 @@
 
 在命令行中执行./sensor_temp.sh，脚本会自动新建相应的文件夹和txt文件，记录的内容会保存在txt文件中
 
-具体的描述件CSDN
+具体的描述见CSDN
+
+https://blog.csdn.net/weixin_39518984/article/details/113665646
